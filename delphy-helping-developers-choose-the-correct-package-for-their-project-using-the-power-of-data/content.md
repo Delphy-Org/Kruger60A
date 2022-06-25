@@ -1,5 +1,7 @@
 # Delphy: Helping developers choose the right package for their project
 
+![hero image](https://ik.imagekit.io/delphy/yes_gJudYscdn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650046214039)
+
 Choosing the right package for a project is no easy job. Developers sometimes spent hours researching packages to find simple details like whether the package is maintained or not, the number of open issues, the popularity of the package, the size of the package, etc.
 
 In this blog, we'll introduce a service called Delphy. Delphy takes this challenge of researching packages and aims to simplify it so developers don't need to spend hours.
