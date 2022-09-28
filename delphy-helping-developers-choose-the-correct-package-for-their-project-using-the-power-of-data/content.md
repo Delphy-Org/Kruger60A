@@ -34,15 +34,3 @@ In recent days, open-source packages are a huge target for hackers. In several c
 ### Package License
 Another important metric that is needed to check is the license of the package. Licenses like MIT and Apache provided minimal restrictions whereas licenses like GPL and LGPL are more restrictive.
 
-## Introducing Delphy
-As discussed above, there are several steps in researching a package. To do this research developers may need to visit several websites, and developers may need to spent hours researching.
-
-Delphy try to solve this problem of researching packages by aggregating data from various platforms. That means instead of visiting several websites, developers can get all the information in one place.
-
-### What data it provides
-Delphy collects data from several platforms like NPM, PyPI, GitHub, BigTable, etc. 
-  - Badges
-  - Reviews
-- Future Roadmap
-- Links
-- Conclusion
