@@ -41,6 +41,12 @@ As discussed above, there are several steps in researching a package. To do this
 
 Delphy try to solve this problem of researching packages by aggregating data from various platforms. That means instead of visiting several websites, developers can get all the information in one place.
 
+```python
+def test():
+  print('Hello World!')
+
+```
+
 ### What data it provides
 Delphy collects data from several platforms like NPM, PyPI, GitHub, BigTable, etc. 
   - Badges
