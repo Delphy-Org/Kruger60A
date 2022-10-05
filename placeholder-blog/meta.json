@@ -20,7 +20,17 @@
 			"linkedin": "https://linkedin.com/in/imdeepmind",
 			"twitter": "https://twitter.com/@imdeepmind",
 			"avatar": "https://avatars.githubusercontent.com/u/34741145?v=4",
-			"email": "abhishek@imdeepmind.com"
+			"email": "abhishek@imdeepmind.com",
+			"lastUpdatedAt" : "1st June 2022"
+		},
+		{
+			"name": "Abhishek Chatterjee",
+			"description": "Founder of Delphy, professionally a Software Enginner, interested in Software Engineering and Machine Learning.",
+			"linkedin": "https://linkedin.com/in/imdeepmind",
+			"twitter": "https://twitter.com/@imdeepmind",
+			"avatar": "https://avatars.githubusercontent.com/u/34741145?v=4",
+			"email": "abhishek@imdeepmind.com",
+			"lastUpdatedAt" : "1st June 2022"
 		}
 	]
 }
