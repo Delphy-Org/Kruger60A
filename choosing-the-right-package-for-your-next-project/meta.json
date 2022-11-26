@@ -1,0 +1,36 @@
+{
+	"title": "Choosing the right package for your next project",
+	"description": "Finding the ideal package can be a daunting task, in this blog, I'll discuss on how to select a package.",
+	"publish_date": "1st June, 2022",
+	"update_date": "1st June, 2022",
+	"featured": true,
+	"image": "https://ik.imagekit.io/delphy/yes_gJudYscdn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650046214039",
+	"author": {
+		"name": "Abhishek Chatterjee",
+		"description": "Founder of Delphy, professionally a Software Enginner, interested in Software Engineering and Machine Learning.",
+		"linkedin": "https://linkedin.com/in/imdeepmind",
+		"twitter": "https://twitter.com/@imdeepmind",
+		"avatar": "https://avatars.githubusercontent.com/u/34741145?v=4",
+		"email": "abhishek@imdeepmind.com"
+	},
+	"editedBy": [
+		{
+			"name": "Abhishek Chatterjee",
+			"description": "Founder of Delphy, professionally a Software Enginner, interested in Software Engineering and Machine Learning.",
+			"linkedin": "https://linkedin.com/in/imdeepmind",
+			"twitter": "https://twitter.com/@imdeepmind",
+			"avatar": "https://avatars.githubusercontent.com/u/34741145?v=4",
+			"email": "abhishek@imdeepmind.com",
+			"lastUpdatedAt" : "1st June 2022"
+		},
+		{
+			"name": "Abhishek Chatterjee",
+			"description": "Founder of Delphy, professionally a Software Enginner, interested in Software Engineering and Machine Learning.",
+			"linkedin": "https://linkedin.com/in/imdeepmind",
+			"twitter": "https://twitter.com/@imdeepmind",
+			"avatar": "https://avatars.githubusercontent.com/u/34741145?v=4",
+			"email": "abhishek@imdeepmind.com",
+			"lastUpdatedAt" : "1st June 2022"
+		}
+	]
+}
