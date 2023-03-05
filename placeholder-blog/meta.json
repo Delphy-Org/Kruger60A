@@ -1,5 +1,7 @@
 {
 	"title": "Delphy: A platform for open-source packages",
 	"description": "Delphy: Helping developers choose the correct package for their project using the power of data",
-	"publish_date": "1st June, 2022"
+	"publish_date": "1st June, 2022",
+	"featured": true,
+	"image": "https://ik.imagekit.io/delphy/yes_gJudYscdn.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650046214039"
 }
